@@ -1,0 +1,16 @@
+D:\OOPLR2\OOPLR2\OOPLR2\bin\Debug\net6.0-windows\OOPLR2.exe
+D:\OOPLR2\OOPLR2\OOPLR2\bin\Debug\net6.0-windows\OOPLR2.deps.json
+D:\OOPLR2\OOPLR2\OOPLR2\bin\Debug\net6.0-windows\OOPLR2.runtimeconfig.json
+D:\OOPLR2\OOPLR2\OOPLR2\bin\Debug\net6.0-windows\OOPLR2.dll
+D:\OOPLR2\OOPLR2\OOPLR2\bin\Debug\net6.0-windows\OOPLR2.pdb
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\OOPLR2.Form1.resources
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\OOPLR2.csproj.GenerateResource.cache
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\OOPLR2.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\OOPLR2.AssemblyInfoInputs.cache
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\OOPLR2.AssemblyInfo.cs
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\OOPLR2.csproj.CoreCompileInputs.cache
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\OOPLR2.dll
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\refint\OOPLR2.dll
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\OOPLR2.pdb
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\OOPLR2.genruntimeconfig.cache
+D:\OOPLR2\OOPLR2\OOPLR2\obj\Debug\net6.0-windows\ref\OOPLR2.dll
